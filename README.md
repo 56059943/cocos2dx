@@ -1,5 +1,5 @@
-# 20230718
-cocos3dx3.x
+# client
+cocos3d-x 3.17.2
 
 # cocos2dx
 cocos3dx3.x

@@ -1,0 +1,1 @@
+%~dp0build\bin\MyLuaGame\Debug\MyLuaGame.exe -workdir %~dp0

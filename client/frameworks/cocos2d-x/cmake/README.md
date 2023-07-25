@@ -31,6 +31,7 @@ Execute `make help` to see all build targets, `make <target>` build specified ta
 cd cocos2d-x
 mkdir win32-build && cd win32-build
 cmake .. -G"Visual Studio 15 2017" -Tv141
+or cmake .. -G "Visual Studio 17 2022" -A WIN32
 ```
 
 Execute `cmake --build .` to compile,

@@ -1,5 +1,4 @@
 client/build
-client/.vscode
 
 client/frameworks/cocos2d-x/tools/bindings-generator/libclang/libclang.dylib
 client/frameworks/cocos2d-x/tools/bindings-generator/libclang/libclang.so
